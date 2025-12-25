@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://parag0hz.github.io/sitemap.xml
