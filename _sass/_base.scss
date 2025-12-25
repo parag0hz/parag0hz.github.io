@@ -202,10 +202,28 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    text-align: center;
 
     p {
       display: inline-block;
       margin: 0;
+    }
+  }
+
+  .social {
+    text-align: center;
+    .contact-icons {
+      font-size: 2rem;
+      a {
+        i::before {
+          color: var(--global-text-color);
+        }
+        &:hover {
+          i::before {
+            color: var(--global-theme-color);
+          }
+        }
+      }
     }
   }
 }
