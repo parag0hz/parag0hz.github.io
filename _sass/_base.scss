@@ -174,7 +174,15 @@ ul.task-list input[type="checkbox"] {
 
   .card-img {
     width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
     padding-top: 1.25rem;
+  }
+
+  .card-img-top {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
   }
 
   .card-title {
