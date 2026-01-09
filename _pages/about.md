@@ -62,9 +62,9 @@ Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](m
       <div style="width: 22px; height: 22px; overflow: hidden; margin-right: 8px; display: flex; align-items: center;">
         <img src="/assets/img/smart_logo.png" alt="Smart IT Academy Logo" style="height: 100%; width: auto; max-width: none;">
       </div>
-      <b>Smart IT Academy (스마트인재개발원)</b>
+      <b>Smart IT Academy (SMHRD)</b>
     </div>
-    <div style="font-size: 0.85rem;">사물지능기반 지능제어서비스 3회차 수료</div>
+    <div style="font-size: 0.85rem;">Certificate of Completion: Intelligent Control Service Based on Object Intelligence (3rd Session)</div>
     <div style="color: #555; font-size: 0.75rem;"><i>Feb 2024 – Aug 2024</i></div>
   </div>
 
@@ -73,7 +73,7 @@ Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](m
       <img src="/assets/img/sunny.png" alt="LG Aimers Logo" style="height: 20px; margin-right: 8px;">
       <b>LG Aimers</b>
     </div>
-    <div style="font-size: 0.85rem;">AI Education Bootcamp (Expected)</div>
+    <div style="font-size: 0.85rem;">AI Education Bootcamp </div>
     <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026 – Present</i></div>
   </div>
 </div>

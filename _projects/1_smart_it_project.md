@@ -4,7 +4,7 @@ title: Smart IT Academy Bootcamp
 description: 스마트 IT 아카데미에서 진행한 프로젝트 예시입니다.
 img: assets/img/smart_logo.png
 importance: 1
-category: work
+category: 2024
 ---
 
 이곳에 프로젝트에 대한 자세한 설명을 작성할 수 있습니다. 마크다운 형식을 지원하므로 이미지, 코드 블록, 리스트 등을 자유롭게 사용할 수 있습니다.
