@@ -53,8 +53,16 @@ Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](m
       <b>B.S.</b> in AI Engineering
     </div>
     <div style="font-size: 0.85rem;">Chosun University, Korea</div>
-    <div style="color: #555; font-size: 0.85rem; font-style: italic;">Advisor: Prof. Wonyeol Kim</div>
     <div style="color: #555; font-size: 0.75rem;"><i>Mar 2021 – Feb 2027 (Expected)</i></div>
+  </div>
+
+  <div style="margin-bottom: 1rem; line-height: 1.5;">
+    <div style="font-size: 1.05rem; display: flex; align-items: center;">
+      <img src="/assets/img/uog.png" alt="University of Guam Logo" style="height: 20px; margin-right: 8px;">
+      <b>University of Guam</b>
+    </div>
+    <div style="font-size: 0.85rem;">Exchange Student</div>
+    <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026</i></div>
   </div>
 
   <div style="margin-bottom: 1rem; line-height: 1.5;">
