@@ -37,7 +37,7 @@ My current projects focus on:
 
 Beyond research, I enjoy thinking about how emerging technologies can become meaningfully embedded in our everyday lives and designing thoughtful user experiences.
 
-Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](mailto:limcon00@chosun.ac.kr)!
+Please feel free to reach out via LinkedIn or email at [limcon010@gmail.com](mailto:limcon010@gmail.com)!
 
 ---
 
@@ -54,35 +54,6 @@ Please feel free to reach out via LinkedIn or email at [limcon00@chosun.ac.kr](m
     </div>
     <div style="font-size: 0.85rem;">Chosun University, Korea</div>
     <div style="color: #555; font-size: 0.75rem;"><i>Mar 2021 – Feb 2027 (Expected)</i></div>
-  </div>
-
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <img src="/assets/img/uog.png" alt="University of Guam Logo" style="height: 20px; margin-right: 8px;">
-      <b>University of Guam</b>
-    </div>
-    <div style="font-size: 0.85rem;">Exchange Student</div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026</i></div>
-  </div>
-
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <div style="width: 22px; height: 22px; overflow: hidden; margin-right: 8px; display: flex; align-items: center;">
-        <img src="/assets/img/smart_logo.png" alt="Smart IT Academy Logo" style="height: 100%; width: auto; max-width: none;">
-      </div>
-      <b>Smart IT Academy (SMHRD)</b>
-    </div>
-    <div style="font-size: 0.85rem;">Certificate of Completion: Intelligent Control Service Based on Object Intelligence (3rd Session)</div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Feb 2024 – Aug 2024</i></div>
-  </div>
-
-  <div style="margin-bottom: 1rem; line-height: 1.5;">
-    <div style="font-size: 1.05rem; display: flex; align-items: center;">
-      <img src="/assets/img/sunny.png" alt="LG Aimers Logo" style="height: 20px; margin-right: 8px;">
-      <b>LG Aimers</b>
-    </div>
-    <div style="font-size: 0.85rem;">AI Education Bootcamp </div>
-    <div style="color: #555; font-size: 0.75rem;"><i>Jan 2026 – Present</i></div>
   </div>
 </div>
 
